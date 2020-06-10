@@ -1,0 +1,212 @@
+[
+    
+{ 
+
+    "question": "The blood is made up of what color?",
+     "options": {
+         "A": "Purple",
+         "B": "Pink",
+         "C": "Red",
+         "D": "Yellow"
+     },
+ 
+     "answer": "Answer = C"
+ },  
+
+ 
+{ 
+
+    "question": "What part of the body is used for seeing?",
+     "options": {
+         "A": "Head",
+         "B": "Shoulder",
+         "C": "Knee",
+         "D": "Eyes"
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "Which of the following is a state in Nigeria?",
+     "options": {
+         "A": "New York",
+         "B": "Kwara",
+         "C": "Algeria",
+         "D": "Ghana"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "Mom and Dad are also known as ________",
+     "options": {
+         "A": "Parents",
+         "B": "Guardians",
+         "C": "Mentors",
+         "D": "Producers"
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+ 
+{ 
+
+    "question": "Your mother’s brother’s only brother-in-law is asleep on your couch. Who is asleep on your couch?",
+     "options": {
+         "A": "Your brother",
+         "B": "Your cousin",
+         "C": "Your Brother-in-law",
+         "D": "Your Father"
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "What colour will I mix to get orange?",
+     "options": {
+         "A": "White and Red",
+         "B": "Green and Black",
+         "C": "Red and Yellow",
+         "D": "Blue and Purple"
+     },
+ 
+     "answer": "Answer = C"
+ },  
+
+ 
+{ 
+
+    "question": "What will I do when  I am wearing my top?",
+     "options": {
+         "A": "Wear it through my legs",
+         "B": "Wear over my head",
+         "C": "Wear it inside out",
+         "D": "Wear a wet top"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "If your house was on fire, what would you do first?",
+     "options": {
+         "A": "Allow yourself burn",
+         "B": "Shout for help",
+         "C": "Continue sleeping",
+         "D": "Ignore the fire"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "What’s the world’s fastest animal?",
+     "options": {
+         "A": "Cheetah",
+         "B": "Elephant",
+         "C": "Ant",
+         "D": "Bird"
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+ 
+{ 
+
+    "question": "Birds lay what?",
+     "options": {
+         "A": "Fruits",
+         "B": "Eggs",
+         "C": "Chips",
+         "D": "Nuts"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "How many classes of food do we have?",
+     "options": {
+         "A": "4",
+         "B": "6",
+         "C": "7",
+         "D": "5"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "An example of Protein is",
+     "options": {
+         "A": "Bread",
+         "B": "Jam",
+         "C": "Beans",
+         "D": "Chocolate"
+     },
+ 
+     "answer": "Answer = C"
+ },  
+
+ 
+{ 
+
+    "question": "What are energy giving foods?",
+     "options": {
+         "A": "Carbohydrates",
+         "B": "Proteins",
+         "C": "Vitamins",
+         "D": "Calcium"
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+{ 
+
+    "question": " Which of these is not a wild animal?",
+     "options": {
+         "A": "Lion",
+         "B": "Leopard",
+         "C": "Dog",
+         "D": "Tiger"
+     },
+ 
+     "answer": "Answer = C"
+ },  
+
+ 
+{ 
+
+    "question": "A nuclear family is made up of",
+     "options": {
+         "A": "Grandparents, parents and children",
+         "B": "Uncles, grandparents and children",
+         "C": "Uncles, parents and children",
+         "D": "Parents and children"
+     },
+ 
+     "answer": "Answer = D"
+    }
+   
+
+]

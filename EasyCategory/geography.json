@@ -1,0 +1,215 @@
+[
+  
+{ 
+
+    "question": "Which is not a river in Africa",
+     "options": {
+         "A": "Congo river",
+         "B": "Nile river",
+         "C": "Niger river",
+         "D": "Atlantic ocean"
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "Which is the largest country in Africa",
+     "options": {
+         "A": "Algeria ",
+         "B": "Nigeria ",
+         "C": "Ghana ",
+         "D": "Mali "
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "How many continents are there in the world?",
+     "options": {
+         "A": "7 ",
+         "B": "15 ",
+         "C": "20 ",
+         "D": "100 "
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+ 
+{ 
+
+    "question": "Who’s the current President of Nigeria?",
+     "options": {
+         "A": "Donald J. Trump",
+         "B": "General Mohammod Buhari",
+         "C": "Dr. Qozeem Odeniran",
+         "D": "Dev. Seyi Onifade"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "How many planets do we have?",
+     "options": {
+         "A": "7",
+         "B": "8",
+         "C": "9",
+         "D": "12"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "Which planet do we live in?",
+     "options": {
+         "A": "Earth ",
+         "B": "Mars ",
+         "C": "Pluto ",
+         "D": "Venus "
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+ 
+{ 
+
+    "question": "What is the largest continent in the world?",
+     "options": {
+         "A": "Antarctica ",
+         "B": "Asia ",
+         "C": "Africa ",
+         "D": "Europe"
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+ 
+{ 
+
+    "question": "Which is not a primary colour?",
+     "options": {
+         "A": "Red ",
+         "B": "Yellow ",
+         "C": "Blue ",
+         "D": "Green "
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "What is the capital city of Nigeria?",
+     "options": {
+         "A": "Lagos",
+         "B": "Kano",
+         "C": "Enugu",
+         "D": "Abuja"
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "How many states are there in Nigeria?",
+     "options": {
+         "A": "35",
+         "B": "36",
+         "C": "37",
+         "D": "38"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "What is the capital of Lagos state?",
+     "options": {
+         "A": "Magodo",
+         "B": "Osogbo",
+         "C": "Ikeja",
+         "D": "FCT"
+     },
+ 
+     "answer": "Answer = C"
+ },  
+
+ 
+{ 
+
+    "question": "Which state is known as “the food basket of the nation”?",
+     "options": {
+         "A": "Borno",
+         "B": "Benue",
+         "C": "Benin",
+         "D": "Bayelsa"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "The first man to walk on the moon is",
+     "options": {
+         "A": "Neil Armstrong",
+         "B": "Martin Luther King jr",
+         "C": "George Bush",
+         "D": "Neal Armstrong"
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+ 
+{ 
+
+    "question": "What is the full meaning of the USA?",
+     "options": {
+         "A": "United States of Arab",
+         "B": "United States of Angola",
+         "C": "Union States of Africa",
+         "D": "United States of America"
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "Which is the hottest? ",
+     "options": {
+         "A": "Ice ",
+         "B": "Rain ",
+         "C": "Wind ",
+         "D": "Fire "
+     },
+ 
+     "answer": "Answer = D "
+ }  
+ 
+ 
+  
+
+]

@@ -1,0 +1,215 @@
+[
+
+
+    {
+
+    "question": "1.  What is the 10th letter in the alphabet?",
+    "options": {
+        "A": "K",
+        "B": "F",
+        "C": "J",
+        "D": "Z"
+    },
+
+    "answer": "Answer = C"
+},
+
+
+{ 
+
+   "question": "2. How many letters are there in the English alphabet?",
+    "options":{
+        "A": "0",
+        "B": "26",
+        "C": "32",
+        "D": "5"
+    },
+
+    "answer": "Answer = B"
+},  
+ 
+
+{ 
+
+    "question": "The English Alphabet consists of ____ vowels.",
+     "options": {
+         "A": "0",
+         "B": "5",
+         "C": "7",
+         "D": "26"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "The English alphabet consists of ____ consonants?",
+     "options": {
+         "A": "26",
+         "B": "7",
+         "C": "5",
+         "D": "21"
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "The English alphabets is made up of _________ and ____________ ",
+     "options": {
+         "A": "Bread and Tea",
+         "B": "Vowels and Consonants",
+         "C": "A and B",
+         "D": "Y and Z"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "Which number is odd?",
+     "options": {
+         "A": "Seven ",
+         "B": "Twenty ",
+         "C": "Forty­two ",
+         "D": "Six "
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+ 
+{ 
+
+    "question": "How many two cents stamps are there in a dozen?",
+     "options": {
+         "A": "1",
+         "B": "12",
+         "C": "4",
+         "D": "6"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "Take two apples from three apples. What do you have?",
+     "options": {
+         "A": "None",
+         "B": "Two",
+         "C": "Three",
+         "D": "One"
+     },
+ 
+     "answer": "Answer = B"
+ },  
+
+ 
+{ 
+
+    "question": "Some months have 31 days, others have 30 days, but how many have 28 days?",
+     "options": {
+         "A": "1",
+         "B": "6",
+         "C": "none",
+         "D": "all"
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "Which colour is not in the rainbow?",
+     "options": {
+         "A": "Red ",
+         "B": "Orange ",
+         "C": "Green ",
+         "D": "Ash "
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "What are the four cardinal points?",
+     "options": {
+         "A": "North, South, Central, Jupiter",
+         "B": "East, West, Central, South",
+         "C": "North, South, East, West",
+         "D": "North, South, Eest, West"
+     },
+ 
+     "answer": "Answer = C"
+ },  
+
+ 
+{ 
+
+    "question": "Which of these is not a raw material?",
+     "options": {
+         "A": "Cocoa",
+         "B": "Crude oil",
+         "C": "Condensed Milk",
+         "D": "Cotton"
+     },
+ 
+     "answer": "Answer = C"
+ },  
+
+ 
+{ 
+
+    "question": "Crude oil is to petrol as Cocoa is to",
+     "options": {
+         "A": "Chocolates",
+         "B": "Pasta",
+         "C": "Rice",
+         "D": "Juice"
+     },
+ 
+     "answer": "Answer = A"
+ },  
+
+ 
+{ 
+
+    "question": "One of these is not a type of manure",
+     "options": {
+         "A": "Fertilizer",
+         "B": "Animal dung",
+         "C": "Decayed leaves",
+         "D": "Poly bag"
+     },
+ 
+     "answer": "Answer = D"
+ },  
+
+ 
+{ 
+
+    "question": "Animals that live in water are called",
+     "options": {
+         "A": "Fish",
+         "B": "Aquatic animals",
+         "C": "Crocodile",
+         "D": "Hippopotamus"
+     },
+ 
+     "answer": "Answer = B"
+ }  
+
+ 
+]
+
